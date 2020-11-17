@@ -24,7 +24,7 @@ python-multipart==0.0.5
 pytz==2020.4
 six==1.15.0
 starlette==0.13.6
-tensorflow==1.15.0
+tensorflow==2.2.0
 tensorflow-estimator==1.15.1
 typing-extensions==3.7.4.3
 uvicorn==0.12.2
